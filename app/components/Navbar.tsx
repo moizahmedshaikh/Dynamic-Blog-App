@@ -70,7 +70,7 @@ const Navbar = () => {
           
 
 
-          <ul className=' items-center gap-6 text-black/60 text-lg font-[600] tracking-widest'>
+          <ul className=' flex flex-col items-center gap-8 text-black/60 text-lg font-[600] tracking-widest'>
                 <li className='hover:text-black transition duration-300 cursor-pointer '>
                 <Link onClick={closeNavHandler} className='p-3' href={"/"}>HOME</Link>
                   </li>
