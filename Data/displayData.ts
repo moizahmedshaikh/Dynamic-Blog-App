@@ -18,7 +18,7 @@ export const displayData: PropsDisplay[] = [
     title: "The Pomodoro Technique Really Works.",
     category: "MANAGEMENT",
     date: "MAY 6, 2015",
-    image: "/management.jpg",
+    image: "https://preview.colorlib.com/theme/wordsmith/images/thumbs/post/watch-400.jpg.webp",
   },
 
   {
