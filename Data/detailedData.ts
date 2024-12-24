@@ -17,7 +17,7 @@ export const detailedData: PropsDetailedData[] = [
     category: "MANAGEMENT",
     date: "MAY 6, 2015",
     image:
-    "https://preview.colorlib.com/theme/wordsmith/images/thumbs/post/watch-400.jpg.webp",
+    "/management.jpg",
     
     heading: "What is the Pomodoro Technique?",
     description1:
